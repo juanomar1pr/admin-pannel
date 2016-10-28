@@ -1,0 +1,30 @@
+******************
+** Marko Robles **
+******************
+
+Para Cargar CRUD debes pegar la carpeta al servidor, si descargas
+wampserver al instalarlo te crea una carpeta de nombre wamp en C:/
+dentro de ella una carpeta www
+
+C:/wamp/www
+
+alli pegas la carpeta llamada crud
+
+
+
+Para cargar la base de datos debes crear una base de datos de
+nombre sistema e importar el respaldo que incluye la carpeta.
+
+
+sistema.sql
+
+
+
+
+NOTA: Si tienes otro nombre de usuario y password de la base de 
+datos debes cambiarlo en el archivo
+
+conexion.php
+
+
+
